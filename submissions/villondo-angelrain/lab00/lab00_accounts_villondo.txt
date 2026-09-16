@@ -1,0 +1,3 @@
+angelrain-villondo
+GitHub Copilot and Gemini
+https://github.com/angelrain-villondo/numerical-methods-lab.git

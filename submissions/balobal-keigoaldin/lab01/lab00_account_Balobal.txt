@@ -1,0 +1,3 @@
+Github username: Keigo-Balobal
+Ai : Chatgpt and Claude
+Repository URL : https://github.com/Keigo-Balobal/numerical-methods-lab.git

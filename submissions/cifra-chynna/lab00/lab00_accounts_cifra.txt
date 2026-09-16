@@ -1,0 +1,5 @@
+chynnacifra
+
+Claude, GitHub Copilot
+
+https://github.com/chynnacifra/numerical-methods-lab.git

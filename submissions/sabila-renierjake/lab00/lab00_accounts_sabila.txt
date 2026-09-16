@@ -1,0 +1,6 @@
+renierjake-sabila
+CLAUDE
+GEMINI
+
+Repository URL
+https://github.com/renierjake-sabila/numerical-methods-lab

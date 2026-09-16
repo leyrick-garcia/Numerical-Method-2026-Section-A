@@ -1,0 +1,3 @@
+ryanoldrenz-miranda
+Github Copilot & Gemini
+https://github.com/ryanoldrenz-miranda/numerical-methods-lab.git

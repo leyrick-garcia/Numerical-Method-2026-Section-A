@@ -1,0 +1,3 @@
+emman-estiamba
+Claude and DeepSeek
+https://github.com/emman-estiamba/numerical-methods-lab
